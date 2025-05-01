@@ -420,6 +420,26 @@
         "Name": "Zürich Airport",
         "Number_of_Routes": 197
       }
+    },
+{
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.75194400000006,
+          41.27527800000005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "Airport_Code": "IST",
+        "Latitude": 41.275278,
+        "Longitude": 28.751944,
+        "Altitude": 325,
+        "Name": "Istanbul Airport",
+        "Number_of_Routes": 310
+      }
     }
   ]
 }
